@@ -1,2 +1,2 @@
 
-Exploring some gapminder data. [Here](https://www.gapminder.org/data/) is the link to where I'm getting these things.
+Exploring some gapminder data. [Here](https://www.gapminder.org/data/) is where I'm getting this data.
